@@ -60,6 +60,12 @@ The dashboard includes:
 
 ---
 Link to Tableau Public Dashboard: https://public.tableau.com/app/profile/viijeta.r/viz/tableau-sales-comparison-project/Dashboard?publish=yes
+
+## Sample Dashboard View
+
+###  Desktop Layout
+![Dashboard Screenshot](screenshot/dashboard-view.png)
+
 ## Author
 
 **Vijeta Singh Rajput**  
