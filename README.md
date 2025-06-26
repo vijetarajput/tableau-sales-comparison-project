@@ -59,6 +59,7 @@ The dashboard includes:
 3. Use the parameters to compare any two regions interactively
 
 ---
+Link to Tableau Public Dashboard: https://https://public.tableau.com/app/profile/viijeta.r/viz/Project1_17391893929580/Dashboard?publish=yes
 
 ## Author
 
