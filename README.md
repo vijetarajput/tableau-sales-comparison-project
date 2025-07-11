@@ -59,7 +59,8 @@ The dashboard includes:
 3. Use the parameters to compare any two regions interactively
 
 ---
-Link to Tableau Public Dashboard: https://public.tableau.com/app/profile/viijeta.r/viz/tableau-sales-comparison-project/Dashboard?publish=yes
+### Link to Tableau Public Dashboard:
+[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/viijeta.r/viz/tableau-sales-comparison-project/Dashboard?publish=yes)
 
 ## Sample Dashboard View
 
@@ -69,4 +70,5 @@ Link to Tableau Public Dashboard: https://public.tableau.com/app/profile/viijeta
 ## Author
 
 **Vijeta Singh Rajput**  
+Tools: Python | Tableau | SQL | Power BI | Excel
 https://www.linkedin.com/in/viijetar/
